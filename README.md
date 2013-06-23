@@ -59,7 +59,8 @@ ZXX Bold
 
 * Copyright: Copyright (c) 2012 by Sang Mun. All rights reserved.
 * Designer: Sang Mun
-* Designer URL: www.sang-mun.com 
+* Designer URL: www.sang-mun.com
+* For more information, see http://z-x-x.org/ and http://blogs.walkerart.org/design/category/flat-files-our-work/
 
 ## Development Info
 * Homepage: https://github.com/shane-tomlinson/connect-fonts-zxx
@@ -83,5 +84,5 @@ Software: Licenced under version 2.0 of the MPL
   https://www.mozilla.org/MPL/
 
 
-  
+
 

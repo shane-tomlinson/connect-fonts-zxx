@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-zxx",
     "bugsurl": false
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,20 +19,22 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
 
   // Common font information
   "font_common": {
+    "description": "The name ZXX comes from the Library of Congress' Alpha-3 ISO 639-2 -- codes for the representation of names of languages. ZXX is used to declare No linguistic content; Not applicable. Free Open Type Font to open up governments. Download & disperse in your convenience",
     "names": "zxx-bold,zxx-camo,zxx-noise,zxx-sans,zxx-xed",
     "family": "ZXX Bold",
     "copyright": "Copyright (c) 2012 by Sang Mun. All rights reserved.",
     "designer": "Sang Mun",
-    "url_designer": "www.sang-mun.com"
+    "url_designer": "http://www.sang-mun.com",
+    "url_vendor": "http://z-x-x.org/"
   },
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
